@@ -1,0 +1,91 @@
+# macOS specific files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# Coverage directory
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Build artifacts
+*.dll
+*.exe
+*.out
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.old
+
+# Compiled JavaScript files
+*.js
+*.jsx
+*.ts
+*.tsx
+*.map
+
+# Yarn integrity
+.yarn-integrity
+
+# Parcel-bundler cache
+.cache
+
+# Next.js build output
+.next
+
+# Nuxt.js build output
+.nuxt
+
+# Gatsby files
+.cache/
+public/
+
+# vuepress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# VS Code local history
+.history/
+
+# Stylelint cache
+.stylelintcache
+
+# SvelteKit build output
+.svelte-kit
